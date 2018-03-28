@@ -12,6 +12,7 @@ package com.mycompany.mavenhelloworld;
 public class clsHelloWorld {
     public static void main(String[] args) {
         System.out.print("hello world");
+        System.out.println("добавил вторую строку для проверки GIT");
     }
     
 }
